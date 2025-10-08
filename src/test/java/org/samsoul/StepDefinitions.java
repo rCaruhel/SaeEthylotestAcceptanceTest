@@ -1,4 +1,4 @@
-package org.example;
+package org.samsoul;
 
 import io.cucumber.java.en.*;
 
